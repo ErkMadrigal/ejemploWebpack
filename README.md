@@ -3,12 +3,11 @@
 ## interfaz del programa 🚀
 
 ## Home
-
-![Portada del proyecto](assets/cover1.png)
+![Portada del proyecto](assets/cover2.png)
 
 ## Links
+![Portada del proyecto](assets/cover1.png)
 
-![Portada del proyecto](assets/cover2.png)
 
 
 ### se ha utilizado 
